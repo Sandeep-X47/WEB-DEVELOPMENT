@@ -1,0 +1,12 @@
+*{background-color: darkslateblue;}
+
+h1{text-transform: uppercase; 
+   font-family: "Libre Baskerville", serif;
+   font-weight: 400;
+   font-style: normal;}
+
+.pic{text-align: center;}
+
+p{font-size: 20px;}
+
+#ascorp{color:white; margin-left: 25%; width: 50%; margin-top: 5%; }
